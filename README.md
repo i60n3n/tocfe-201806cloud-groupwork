@@ -8,7 +8,7 @@ transition: "slide"
 
 # クラウド
 
-<span style="font-size: 70%;">TOCfE BootCamp KANSAI 2018/06/23</span>
+<span style="font-size: 70%;">TOCfE BootCamp KANSAI 2018/07/21</span>
 
 - 講師デモ <!-- .element: style="font-size: 70%;" -->
 - 全体演習 <!-- .element: style="font-size: 70%;" -->
